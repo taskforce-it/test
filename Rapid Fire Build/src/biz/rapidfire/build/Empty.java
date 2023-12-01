@@ -7,3 +7,7 @@ public class Empty {
 	// Änderung 3
 	
 }
+
+// Neu 1
+// Neu 2
+// Neu 3
