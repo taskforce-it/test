@@ -1,0 +1,4 @@
+The Rapid Fire job contains files, which have fields with the SQL GENERATED clause. If you use Rapid Fire for such files, then the
+values of the fields with the SQL GENERATED clause will be regenerated for each record in the files. IF YOU CONTINUE, THEN THE
+VALUES WILL BE REGENERATED. We advise you to cancel. You can continue if you really understand what this means and if this causes
+NO problems in your application. It is your decision. Be warned. The wrong decision can destroy your entire application.
