@@ -7,7 +7,7 @@ public class Empty {
 	// Änderung 3
 	// Änderung 4
 	// Änderung 5
-	// Änderung 6
+	// Änderung 6 Heino
 	// Änderung 7 Frank Heino
 	
 }
