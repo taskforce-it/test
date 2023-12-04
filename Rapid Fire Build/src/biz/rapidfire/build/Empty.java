@@ -2,7 +2,7 @@ package biz.rapidfire.build;
 
 public class Empty {
 
-	// Änderung 1
+	// Änderung 1 Frank
 	// Änderung 2
 	// Änderung 3
 	// Änderung 4 Frank Heino
