@@ -15,9 +15,9 @@ import org.eclipse.swt.widgets.Shell;
 
 import biz.rapidfire.core.Messages;
 
-// Test 111
-// Test 222
-// Test 333
+// Test 1111
+// Test 2222
+// Test 3333
 
 public class MessageDialogAsync {
 
