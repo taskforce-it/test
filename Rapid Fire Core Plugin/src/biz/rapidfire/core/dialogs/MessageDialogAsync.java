@@ -15,6 +15,10 @@ import org.eclipse.swt.widgets.Shell;
 
 import biz.rapidfire.core.Messages;
 
+// Test 1
+// Test 2
+// Test 3
+
 public class MessageDialogAsync {
 
     public static void displayError(Shell shell, String message) {
