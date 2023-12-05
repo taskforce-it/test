@@ -2,14 +2,16 @@ package biz.rapidfire.build;
 
 public class Empty {
 
-	// Änderung 1 Frank
-	// Änderung 2 Branch
-	// Änderung 3
-	// Änderung 4 Frank Heino
-	// Änderung 5 Frank Heino
-	// Änderung 6 Frank Heino
-	// Änderung 7 Frank Heino
-	
+	// Ã„nderung 1 Frank
+	// Ã„nderung 2 Branch
+	// Ã„nderung 3
+	// Ã„nderung 4 Frank Heino
+	// Ã„nderung 5 Frank Heino
+	// Ã„nderung 6 Frank Heino
+	// Ã„nderung 7 Frank Heino
+	// Fritz 1
+	// Fritz 2
+	// Fritz 3
 }
 
 // Neu 1
